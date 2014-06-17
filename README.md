@@ -1,11 +1,6 @@
-[中文详细说明点这里](http://hexo.yuche.me/introducing-kael-customization/)
 
-↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
-## WARNING
-The code is full of shit.
-
-## Feature
+## Features
 
  - Multi Level Push Menu 
  - Archive/Tags/Categoies Instant Search
@@ -22,19 +17,13 @@ The code is full of shit.
  - Safari 5 +
 
  
-## Preview
-![kael-preview][1]
- 
 ## Installation
 
 ### Install
 
-$ git clone git@github.com:yuche/hexo-theme-kael.git themes/kael
+$ git clone https://github.com/xampl/Bare-Kael-Hexo.git themes/kael
 
 ### Enable
 
 Modify theme setting in blog folder `_config.yml` to `kael`.
 
-
-
-  [1]: http://ww1.sinaimg.cn/large/650625begw1egigcsgddcg20z60iue81.gif
