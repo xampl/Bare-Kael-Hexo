@@ -1,0 +1,27 @@
+
+<footer class="site-footer">
+    <% if (config.rss || config.feed) {  %>
+    <a class="subscribe icon-feed" href="<%= (config.rss || config.feed.path) %>"><span class="tooltip">Subscribe!</span></a>
+    <% } %>
+    <div class="inner">
+        <section class="copyright"><a href="<%- config.root %>"></a> &copy; <%- config.title %> 2014</section>
+    </div>
+</footer>
+</div>
+</div><!-- /scroller -->
+
+</div><!-- /pusher -->
+</div><!-- /container -->
+</div>
+
+<!-- Easter eggs -->
+
+<div class="egg animated">
+    <a id="close-button" href="#">X</a>
+    <div class="block">
+        <div class="loading">
+            <span class="ball1"></span>
+            <span class="ball2"></span>
+        </div>
+    </div>
+</div>
