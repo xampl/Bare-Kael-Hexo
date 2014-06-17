@@ -21,9 +21,8 @@
 
 ### Install
 
-$ git clone https://github.com/xampl/Bare-Kael-Hexo.git themes/kael
-
+$ git clone https://github.com/xampl/Bare-Kael-Hexo.git themes/Bare-Kael-Hexo
 ### Enable
 
-Modify theme setting in blog folder `_config.yml` to `kael`.
+Modify theme setting in blog folder `_config.yml` to 'Bare-Kael-Hexo`.
 
